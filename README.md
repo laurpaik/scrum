@@ -26,7 +26,6 @@ Spend about 15 minutes on your own reading the following:
 After reading the above, take 5-10 minutes to work with your squads and answer
 the following:
 
-1.  What is the difference between scrum, agile and kanban?
 1.  What is a scrum master?
 1.  What are sprints?
 1.  What is the purpose of a stand up?
