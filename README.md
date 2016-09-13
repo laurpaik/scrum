@@ -17,9 +17,9 @@ By the end of this, developers should be able to:
 
 Spend about 15 minutes on your own reading the following:
 
-[Scrum - Atlassian](https://www.atlassian.com/agile/scrum)
-[Agile Ceremonies](https://www.atlassian.com/agile/ceremonies)
-[How to Do Scrum](https://www.atlassian.com/agile/how-to-do-scrum-with-jira-software)
+-  [Scrum - Atlassian](https://www.atlassian.com/agile/scrum)
+-  [Agile Ceremonies](https://www.atlassian.com/agile/ceremonies)
+-  [How to Do Scrum](https://www.atlassian.com/agile/how-to-do-scrum-with-jira-software)
 
 ## Squad Discussion
 
